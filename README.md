@@ -1,1 +1,1 @@
-# Simple quiz in form of a web application
+# Simple quiz
